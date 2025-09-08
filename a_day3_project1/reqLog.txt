@@ -1,0 +1,12 @@
+
+1757331573568: GET -> /api/user
+1757331633065: POST -> /api/user
+1757332965201: GET -> /api/user
+1757333025765: GET -> /api/user
+1757335645279: POST -> /api/user
+1757335661256: GET -> /api/user
+1757336106322: POST -> /api/user
+1757336151344: POST -> /api/user
+1757336159307: GET -> /api/user/1010
+1757336425690: GET -> /api/user/1013
+1757336444697: GET -> /api/user/1013
